@@ -21,3 +21,4 @@ AuthMiddleware.isAuthentication = function(req,res,next){
         }
     }
 }
+//lol
